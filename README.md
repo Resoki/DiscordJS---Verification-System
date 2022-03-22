@@ -4,11 +4,11 @@
 Ouvrir un terminal et verifier qu'on se situe bien dans le dossier 
 
 ```diff
-+ npm install 
+npm install 
 ```
 
 ```diff
-+ npm start 
+npm start 
 
 ```
 
