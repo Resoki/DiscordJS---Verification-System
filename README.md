@@ -5,7 +5,11 @@ Ouvrir un terminal et verifier qu'on se situe bien dans le dossier
 
 ```diff
 + npm install 
+```
+
+```diff
 + npm start 
+
 ```
 
 Changer le token dans Config/global.json
